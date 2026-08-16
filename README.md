@@ -13,5 +13,5 @@ Output
    simple interest = p*t*r
 ```
 
-2023 XYZ, Inc.
+2023gh repo clone missgat/mcino-Introduction-to-Git-and-GitHugh repo clone missgat/mcino-Introduction-to-Git-and-GitHubgh repo clone missgat/mcino-Introduction-to-Git-and-GitHubgh repo clone missgat/mcino-Introduction-to-Git-and-GitHubgh repo clone missgat/mcino-Introduction-to-Git-and-GitHubgh repo clone missgat/mcino-Introduction-to-Git-and-GitHubgh repo clone missgat/mcino-Introduction-to-Git-and-GitHubb XYZ, Inc.
 
